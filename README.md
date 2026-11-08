@@ -11,6 +11,9 @@ React менен жасалган тапшырмалар колдонмосу.
 ## Технологиялар
 React, Vite, Tailwind CSS
 
+## Демо
+https://worktodo-eight.vercel.app
+
 ## Иштетүү
 ```bash
 npm install
